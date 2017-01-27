@@ -6,8 +6,7 @@
 
 ## Author
 
-[@ichigats//twitter.com/ichigats)
-
+[@ichigats//twitter.com/ichigats]
 ## License
 
 [MIT]
